@@ -13,12 +13,6 @@ Programa desenvolvido em Java para cadastro e organização de alunos.
 - Bubble Sort
 - Selection Sort
 
-# Estrutura do projeto
-atividade-estrutura-de-dados/
-├── Aluno.java
-├── Principal.java
-└── README.md
-
 # Aluno
 
 Yan Lucca Menóssi Figueiredo 
