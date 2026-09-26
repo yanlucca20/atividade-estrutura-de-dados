@@ -45,8 +45,4 @@ atividade-estrutura-de-dados/
 
 ## Autor
 
-Yan Lucca Menóssi Figueiredo
-
-**Nome do aluno**
-
-Trabalho prático desenvolvido para a disciplina de **Estrutura de Dados**.
+**Yan Lucca Menóssi Figueiredo**
