@@ -1,18 +1,52 @@
-# trabalho-estrutura-de-dados
-Programa desenvolvido em Java para cadastro e organização de alunos.
+# Trabalho de Estrutura de Dados
 
-# Funcionalidades
+Aplicação desenvolvida em **Java** para cadastro, organização e consulta de dados de alunos, utilizando **Array de Objetos**.
+
+## Sobre o projeto
+
+O programa permite cadastrar alunos informando nome, RA, idade, sexo e média. A partir da média informada, o sistema define automaticamente se o aluno está **Aprovado** ou **Reprovado**.
+
+A aplicação possui um menu interativo para realizar diferentes tipos de relatórios e utiliza algoritmos de ordenação estudados na disciplina de Estrutura de Dados.
+
+## Funcionalidades
 
 - Cadastro de alunos
-- Relatório por nome em ordem crescente
-- Relatório por RA em ordem decrescente
-- Relatório de alunos aprovados por nome
+- Definição automática do resultado do aluno
+- Relatório de alunos por nome em ordem crescente (A-Z)
+- Relatório de alunos por RA em ordem decrescente
+- Relatório apenas de alunos aprovados, ordenados por nome
 
-# Algoritmos utilizados
+## Algoritmos utilizados
 
-- Bubble Sort
-- Selection Sort
+- **Bubble Sort** — utilizado para ordenar os alunos por nome
+- **Selection Sort** — utilizado para ordenar os alunos pelo RA
 
-# Aluno
+## Tecnologias
 
-Yan Lucca Menóssi Figueiredo 
+- Java
+- Classe `Scanner`
+- Array de Objetos
+
+## Estrutura do projeto
+
+```text
+atividade-estrutura-de-dados/
+├── Aluno.java
+├── Principal.java
+└── README.md
+```
+
+## Como executar
+
+1. Tenha o **Java JDK** instalado no computador.
+2. Abra os arquivos `Aluno.java` e `Principal.java` em uma IDE, como IntelliJ IDEA, Eclipse ou VS Code.
+3. Execute a classe `Principal`.
+4. Utilize o menu apresentado no terminal para acessar as funcionalidades do programa.
+
+## Autor
+
+Yan Lucca Menóssi Figueiredo
+
+**Nome do aluno**
+
+Trabalho prático desenvolvido para a disciplina de **Estrutura de Dados**.
