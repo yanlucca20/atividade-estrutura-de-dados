@@ -30,10 +30,19 @@ A aplicação possui um menu interativo para realizar diferentes tipos de relat�
 ## Estrutura do projeto
 
 ```text
-atividade-estrutura-de-dados/
-├── Aluno.java
-├── Principal.java
-└── README.md
+TabalhoEdD/
+├── .gitignore
+├── .idea/
+│   ├── .gitignore
+│   ├── .name
+│   ├── haxe.xml
+│   ├── misc.xml
+│   ├── modules.xml
+│   └── workspace.xml
+├── src/
+│   ├── Aluno.java
+│   └── App.java
+└── TabalhoEdD.iml
 ```
 
 ## Como executar
