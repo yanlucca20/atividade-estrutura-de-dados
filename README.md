@@ -31,7 +31,6 @@ A aplicação possui um menu interativo para realizar diferentes tipos de relat�
 
 ```text
 TabalhoEdD/
-├── .gitignore
 ├── .idea/
 │   ├── .gitignore
 │   ├── .name
@@ -42,6 +41,7 @@ TabalhoEdD/
 ├── src/
 │   ├── Aluno.java
 │   └── App.java
+├── .gitignore
 └── TabalhoEdD.iml
 ```
 
