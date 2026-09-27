@@ -42,6 +42,7 @@ TabalhoEdD/
 │   ├── Aluno.java
 │   └── App.java
 ├── .gitignore
+├── README.md
 └── TabalhoEdD.iml
 ```
 
